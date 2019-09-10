@@ -4,8 +4,8 @@ This is a system for the tracking of attendance at concerts and other large even
 
 ## Table Schemas
 
-Artist (artistID, artistName) \n
-Concert (concertID, artistID, date) \n
-Customer (customerID, fName, lName, gender, city, state, country) \n
+Artist (artistID, artistName)  
+Concert (concertID, artistID, date)   
+Customer (customerID, fName, lName, gender, city, state, country)  
 ConcertCustomerIntersection (concertID, customerID)
 
