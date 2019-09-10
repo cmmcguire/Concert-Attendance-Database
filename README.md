@@ -11,4 +11,4 @@ ConcertCustomerIntersection (concertID, customerID)
 
 ## Example Screenshot
 
-![](customer-table-screenshot)
+![](customer-table-screenshot.png)
