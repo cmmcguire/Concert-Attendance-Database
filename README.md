@@ -9,3 +9,6 @@ Concert (concertID, artistID, date)
 Customer (customerID, fName, lName, gender, city, state, country)  
 ConcertCustomerIntersection (concertID, customerID)
 
+## Example Screenshot
+
+![](customer-table-screenshot)
